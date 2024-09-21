@@ -60,7 +60,7 @@ RegisterNumber: 212223040072
 ```
 
 ## Output:
-![multivariate linear regression model for predicting the price of the house and number of occupants in the house](sam.png)
+![image](https://github.com/user-attachments/assets/ca06817d-6e9f-4691-85b9-bbffe14c55db)
 
 
 ## Result:
